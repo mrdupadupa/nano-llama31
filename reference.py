@@ -40,9 +40,9 @@ from fairscale.nn.model_parallel.initialize import (
 #from llama_models.llama3_1.api import ModelArgs
 #from llama_models.llama3_1.api import Transformer
 #from llama_models.llama3_1.api import Tokenizer
-from llama_models.llama_models.llama3.api.args import ModelArgs
-from llama_models.llama_models.llama3.reference_impl.model import Transformer
-from llama_models.llama_models.llama3.api.tokenizer import Tokenizer
+from llama_models.models.llama3.api.args import ModelArgs
+from llama_models.models.llama3.reference_impl.model import Transformer
+from llama_models.models.llama3.api.tokenizer import Tokenizer
 
 
 
